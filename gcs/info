@@ -1,0 +1,29 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de Guadalinex v6
+
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: gecosws-skel-conf
+
+# Autor 
+author: David Amian Valle <damian@emergya.es>
+
+#Priority
+priority: optional
+
+# Section
+section: metapackages
+
+# Descripción corta
+shortdesc: "Gecos meta package with files and skel for user "
+
+# Descipción larga, las lineas han de estar separadas por "\n "
+longdesc: "Gecos meta package with files and skel for user "
+
+
+# Versión del paquete
+version: 2.0
+
+# Cambios en esta versión
+changes:
+    - Initial release.
