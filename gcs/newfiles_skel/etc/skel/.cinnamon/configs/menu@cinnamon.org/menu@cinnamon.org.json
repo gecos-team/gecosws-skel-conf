@@ -1,10 +1,10 @@
 {
     "menu-icon": {
         "type": "iconfilechooser", 
-        "default": "/usr/share/cinnamon/theme/menu.png", 
+        "default": "/usr/share/cinnamon/theme/menu.svg", 
         "description": "Icon", 
         "tooltip": "Select an icon to show in the panel.", 
-        "value": "/usr/share/cinnamon/theme/menu.png"
+        "value": "/usr/share/cinnamon/theme/menu.svg"
     }, 
     "menu-label": {
         "type": "entry", 
